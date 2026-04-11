@@ -17,4 +17,7 @@ Start by running `npm install` inside the project folder
 ## Deployed Application
 Live URL: https://open-cicd.onrender.com
 
+## Github Repo:
+URL: https://github.com/mirajs-0/open-cicd
+
 # Final Review
