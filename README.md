@@ -15,5 +15,9 @@ Start by running `npm install` inside the project folder
 `npm run start-prod` to run your production build
 
 ## Deployed Application
-Live URL: https://open-cicd.onrender.comtest
-test protection
+Live URL: https://open-cicd.onrender.com
+
+## Github Repo:
+URL: https://github.com/mirajs-0/open-cicd
+
+# Final Review
