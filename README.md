@@ -17,7 +17,10 @@ Start by running `npm install` inside the project folder
 ## Deployed Application
 Live URL: https://open-cicd.onrender.com
 
-## Github Repo:
+## Github Repo for Exercises:
 URL: https://github.com/mirajs-0/open-cicd
 
-# Final Review
+# Exercise 21 - Notes App CI/CD
+URL: https://github.com/mirajs-0/simple-notes-cicd 
+
+Live URL: https://simple-notes-cicd.onrender.com
